@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.kareemabo3id.Antouz"
     },
     "web": {
       "favicon": "./assets/favicon.png"
